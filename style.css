@@ -1,0 +1,74 @@
+.square1{
+    height: 800px;
+    width: 1000px;
+    margin: auto;
+}
+
+.heading{
+    height: 200px;
+    width: 990px;
+    margin: auto;
+}
+
+.contentsquare{
+    height: 550px;
+    width: 990px;
+    margin: auto;
+}
+
+.top1{
+    height: 272px;
+    width: 315px;
+    display: inline-block;
+}
+
+.top2{
+    height: 272px;
+    width: 315px;
+    display: inline-block;
+}
+
+.top3{
+    height: 272px;
+    width: 315px;
+    display: inline-block;
+}
+
+.bot1{
+    height: 272px;
+    width: 315px;
+    display: inline-block;
+}
+
+.bot2{
+    height: 272px;
+    width: 315px;
+    display: inline-block;
+
+}
+
+.bot3{
+    height: 272px;
+    width: 315px;
+    display: inline-block;
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.title2{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h4{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+p{
+    text-align: justify;
+    font-family: sans-serif;
+}
